@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![GIT](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=Git)
+![DOCKER](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=Docker)
 
 <h3> Conecta conmigo:</h3>
 <p>
