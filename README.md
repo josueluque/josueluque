@@ -11,7 +11,7 @@
 ![PYTHON](http://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python)
 ![PANDAS](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=FFF)
 ![NUMPY](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=Numpy&logoColor=013243)
-![JAVA](https://img.shields.io/badge/JDK%20JAVA-000000?style=for-the-badge&logo=OpenJDK)
+![JAVA](https://img.shields.io/badge/Open%20JDK-000000?style=for-the-badge&logo=OpenJDK)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
