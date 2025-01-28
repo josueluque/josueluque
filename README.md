@@ -4,7 +4,7 @@
 
 - <samp> 📚 Estudiante de Ingeniería en Sistemas de Información en la UTN BA.
 - <samp> 💻 Experiencia trabajando como desarrollador de software en un equipo agile, bajo la <b>metodologia SCRUM</b>.
-- <samp> 🌱 Fortaleciendo y ampliando conocimientos en <b>FastAPI, SQLAlchemy, Pandas y NumPy</b>.
+- <samp> 🌱 Fortaleciendo conocimientos en <b>SQL, Java Development Kit y Soft skills </b>.
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
 
