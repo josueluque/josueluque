@@ -1,10 +1,10 @@
-<h1> <samp> Hola, bienvenido a mi perfil de GitHub <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
+<h1> <samp> Hola, bienvenido a mi perfil de GitHub </h1>
 
 <h3> :man_technologist: Acerca de mí </h3>
 
-- <samp> 📚 Estudiante de Ingeniería en Sistemas de Información en la UTN BA.
-- <samp> 💻 Experiencia trabajando como desarrollador de software en un equipo agile, bajo la <b>metodologia SCRUM</b>.
-- <samp> 🌱 Fortaleciendo conocimientos en <b>SQL, Java Development Kit y Soft skills </b>.
+- <samp>  Estudiante de Ingeniería en Sistemas de Información en la UTN BA.
+- <samp>  Experiencia trabajando como desarrollador de software en un equipo agile, bajo la <b>metodologia SCRUM</b>.
+- <samp>  Fortaleciendo conocimientos en <b>SQL, Java Development Kit y Soft skills </b>.
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
 
