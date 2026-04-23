@@ -1,25 +1,23 @@
-<h1> <samp> Hola, bienvenido a mi perfil de GitHub </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=84D3FF&vCenter=true&random=true&width=435&lines=Hello!+I+am+Josu%C3%A9+Luque+%F0%9F%91%8B;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
-<h3> :man_technologist: Acerca de mí </h3>
+<h3>🚀 About Me</h3>
 
-- <samp>  Estudiante de Ingeniería en Sistemas de Información en la UTN BA.
-- <samp>  Experiencia trabajando como desarrollador de software en un equipo agile, bajo la <b>metodologia SCRUM</b>.
-- <samp>  Fortaleciendo conocimientos en <b>SQL, Java Development Kit y Soft skills </b>.
+- I am a Systems Engineering student and Technician in Information and Communication Technologies. I’m expanding my knowledge in both front-end and back-end development.
+- 🌱 I’m currently learning Software Development Skills, SQL, and Soft Skills.
+- 👾 Outside tech, 🎵 I enjoy listening to music, 🎮 playing video games, 🚴 riding my bike, and 📸 landscape photography.
+- 🤝 Let’s connect: <a href="https://www.linkedin.com/in/josueluque/">linkedin.com/in/josueluque/</a>
+- 📫 Reach out to me at: <a href="jluqueherbas@gmail.com">jluqueherbas@gmail.com</a>
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
+<h3>🛠️ Tech Stack </h3>
 
-![PYTHON](http://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python)
-![PANDAS](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=FFF)
-![NUMPY](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=Numpy&logoColor=013243)
-![JAVA](https://img.shields.io/badge/Open%20JDK-000000?style=for-the-badge&logo=OpenJDK)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![GIT](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=Git)
-![DOCKER](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=Docker)
-
-<h3> Conecta conmigo:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/josueluque/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josu%C3%A9_Luque-3776AB?logo=LinkedIn"></a>
-  <a href="mailto:jluqueherbas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jluqueherbas%40gmail.com-3776AB?logo=gmail&logoColor=D12228"></a>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
 </p>
