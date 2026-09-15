@@ -2,7 +2,7 @@
 
 <h3>🚀 About Me</h3>
 
-- I am a Systems Engineering student and Technician in Information and Communication Technologies. I’m expanding my knowledge in both front-end and back-end development.
+- I am a Systems Engineering student and Technician in Information and Communication Technologies.
 - 🌱 I’m currently learning Software Development Skills, SQL, and Soft Skills.
 - 👾 Outside tech, 🎵 I enjoy listening to music, 🎮 playing video games, 🚴 riding my bike, and 📸 landscape photography.
 - 🤝 Let’s connect: <a href="https://www.linkedin.com/in/josueluque/">linkedin.com/in/josueluque/</a>
