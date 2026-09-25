@@ -10,5 +10,5 @@
 
 <h3>🛠️ Tech Stack </h3>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,react,typescript,tailwindcss,postgresql,python,java,bash,docker,linux&perline=17)](#)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,react,typescript,tailwindcss,postgresql,python,java,claude,bash,docker,linux&perline=17)](#)
 
