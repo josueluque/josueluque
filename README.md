@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=84D3FF&vCenter=true&random=true&width=435&lines=Hello!+I+am+Josu%C3%A9+Luque+%F0%9F%91%8B;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=84D3FF&width=435&lines=Hello!+I+am+Josu%C3%A9+%F0%9F%91%8B;Full+Stack+Developer;IT+Technician" alt="Typing SVG" /></a>
 
 <h3>🚀 About Me</h3>
 
